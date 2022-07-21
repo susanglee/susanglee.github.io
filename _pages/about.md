@@ -7,7 +7,7 @@ Hello!
 
 I am a Ph.D. candidate in Business and Technology Management at KAIST. I am interested in solving economic problems using big data and econometric models. My advisors are Jihee Kim and Chulho Lee. I received M.S. in Business and Technology Management and B.S. in Electrical Engineering and Mathematical Science from KAIST in 2017 and 2012 respectively.
 
-Here is my [Curriculum Vitae]({{ "/docs/cv_sslee_jul2022.pdf" | relative_url }}){: .btn .btn--success} (Updated July 2022).
+Here is my [Curriculum Vitae]({{ "/assets/docs/cv_sslee_jul2022.pdf" | relative_url }}){: .btn .btn--success} (Updated July 2022).
 
 Contact
 Email: susang88@kaist.ac.kr
